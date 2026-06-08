@@ -667,7 +667,7 @@ function ProjectsSection() {
                 </svg>
               </button>
 
-              {/* Imagen del Proyecto Real */}
+              {/* Imagen del Proyecto */}
               <div className="w-full aspect-video bg-black/90 relative overflow-hidden border-b border-white/10 flex-shrink-0">
                 <img
                   src={selectedProject.image}
